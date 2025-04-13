@@ -65,7 +65,7 @@ Simple ERC20 implementation for testing:
 1. Clone and Install
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/funnydev77/farm-contract.git
 cd farming-contract
 
 # Install dependencies
